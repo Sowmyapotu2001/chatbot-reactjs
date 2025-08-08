@@ -78,6 +78,7 @@ export default function App() {
         <button onClick={sendMessage} disabled={loading}>
           Send
         </button>
+        <img src="assests/image.png" alt="micxcv" className="mic-icon" />
       </div>
     </div>
   );
