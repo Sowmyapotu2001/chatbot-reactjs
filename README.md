@@ -39,4 +39,4 @@ A simple React chatbot UI that connects to **Google Gemini API** for AI-powered 
 ```bash
 git clone https://github.com/your-username/react-gemini-chatbot.git
 cd react-gemini-chatbot
-![Chatbot UI Screenshot](/image.png)
+![Chatbot UI Screenshot](public/image.png)
